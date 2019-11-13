@@ -1,5 +1,5 @@
 
-Movie_Recommendation_Bot
+Movie_Recommendation_Bot using Slack and IBM Watson
 
 Installation and Bot Setup
 This file will walk you through the steps to setup your bot. Download the entire folder and the follow the steps below. 
