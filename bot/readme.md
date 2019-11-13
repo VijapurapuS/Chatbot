@@ -16,7 +16,9 @@ Create a IBM Watson account and Upload the bot.json workspace
 <br>
 Install the required packages listed in the requirements.txt file. To install the required packages, please use the code below.
 
-`pip3 install -r requirements.txt
+```
+pip3 install -r requirements.txt
+```
 <br>
 It would be recommended to use Python 3.5.x or 3.6.x version for this project.
 
@@ -41,8 +43,9 @@ Name of the dataset - movies_metadata.csv
 Create "onetime.txt" file
 Navigate to the folder where the main.py file resides and execute the code below.
 
-`python3 nlp/nlp_solutions/onetime_run_file.py
-
+```
+python3 nlp/nlp_solutions/onetime_run_file.py
+```
 This will create the "onetime.txt" file automatically.
 
 ### Step 7: 
@@ -50,8 +53,9 @@ This will create the "onetime.txt" file automatically.
 Initiate Bot
 Navigate to the folder where the main python script exists and run the code below.
 
-`python3 main.py
-
+```
+python3 main.py
+```
 ### Bot Design Flow
 The Movie bot framework used here is a closed domain chatbot. The entire framework design is shown below.
 
